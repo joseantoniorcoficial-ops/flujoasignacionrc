@@ -1,0 +1,5 @@
+{
+  "name": "FlowGuide - Task Management",
+  "description": "An interactive, visual flowchart application guiding users through a task assignment lifecycle with state validations and feedback loops.",
+  "requestFramePermissions": []
+}
